@@ -1,7 +1,7 @@
 site:
   name: AstroWind
-  site: 'https://astrowind.vercel.app'
-  base: '/'
+  site: 'https://kardgift.github.io'
+  base: '/astrowind' # Change this if you need to deploy to Github Pages, for example
   trailingSlash: false
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
